@@ -1,0 +1,48 @@
+PHOTOBOARD — LICENZA D'USO
+© 2026 Alessandro Censi. Tutti i diritti riservati.
+
+Installando o usando PhotoBoard accetti questa licenza. Se non la accetti, non installare e non usare il programma.
+
+1. Concessione. PhotoBoard è concesso in licenza, non venduto. Ti è concesso un diritto personale, non esclusivo e non trasferibile di installare e usare PhotoBoard sui Mac di tua proprietà o sotto il tuo controllo, per uso personale e professionale.
+
+2. Limitazioni. Senza il permesso scritto dell'autore non puoi: distribuire, vendere, noleggiare, prestare o sublicenziare PhotoBoard; pubblicarlo su siti o servizi di download; modificarlo, decompilarlo, disassemblarlo o tentare di ricavarne il codice sorgente, salvo quanto consentito espressamente dalla legge; rimuovere o alterare le indicazioni di copyright.
+
+3. I tuoi contenuti. Le fotografie, i progetti, i testi e i commenti restano tuoi. PhotoBoard non invia i tuoi file o i tuoi dati a server esterni: l'analisi delle immagini avviene sul tuo Mac.
+
+4. Proprietà. PhotoBoard, il suo codice, l'icona, il nome e la documentazione appartengono ad Alessandro Censi e sono protetti dalle leggi sul diritto d'autore.
+
+5. Nessuna garanzia. PhotoBoard è fornito «così com'è», senza garanzie di alcun tipo, espresse o implicite, nei limiti consentiti dalla legge. Le analisi di luce, colore, composizione e sequenza sono indicazioni di supporto, non giudizi vincolanti. Conserva sempre una copia di sicurezza delle tue foto e dei tuoi progetti.
+
+6. Limitazione di responsabilità. Nei limiti massimi consentiti dalla legge, l'autore non è responsabile per danni diretti o indiretti, perdita di dati, di file o di guadagni derivanti dall'uso o dall'impossibilità di usare PhotoBoard. Restano salvi i diritti che la legge riconosce in modo inderogabile ai consumatori.
+
+7. Durata. La licenza vale finché non viene risolta. Termina automaticamente se ne violi le condizioni; in quel caso devi cancellare tutte le copie di PhotoBoard.
+
+8. Legge applicabile. Questa licenza è regolata dalla legge italiana.
+
+Contatti: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
+
+
+────────────────────────────────────────
+
+PHOTOBOARD — LICENCE AGREEMENT
+© 2026 Alessandro Censi. All rights reserved.
+
+By installing or using PhotoBoard you accept this licence. If you do not accept it, do not install or use the program.
+
+1. Grant. PhotoBoard is licensed, not sold. You are granted a personal, non-exclusive, non-transferable right to install and use PhotoBoard on Macs that you own or control, for personal and professional use.
+
+2. Restrictions. Without the author's written permission you may not: distribute, sell, rent, lend or sublicense PhotoBoard; publish it on download sites or services; modify, decompile or disassemble it, or attempt to derive its source code, except where expressly permitted by law; remove or alter copyright notices.
+
+3. Your content. Your photographs, projects, texts and comments remain yours. PhotoBoard does not send your files or data to external servers: image analysis happens on your Mac.
+
+4. Ownership. PhotoBoard, its code, icon, name and documentation belong to Alessandro Censi and are protected by copyright law.
+
+5. No warranty. PhotoBoard is provided "as is", without warranties of any kind, express or implied, to the extent permitted by law. The analyses of light, colour, composition and sequence are supporting guidance, not binding judgements. Always keep a backup of your photos and projects.
+
+6. Limitation of liability. To the maximum extent permitted by law, the author is not liable for any direct or indirect damage, loss of data, files or profits arising from the use of, or inability to use, PhotoBoard. This does not affect the mandatory rights that the law grants to consumers.
+
+7. Term. This licence remains in effect until terminated. It ends automatically if you breach its terms; in that case you must delete all copies of PhotoBoard.
+
+8. Governing law. This licence is governed by Italian law.
+
+Contact: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
