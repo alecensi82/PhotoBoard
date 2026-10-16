@@ -30,7 +30,7 @@ PhotoBoard è un tavolo luminoso per fotografi: metti le foto su un piano infini
 L'app è firmata con Developer ID e notarizzata da Apple: si apre senza avvisi.
 
 ### Licenza
-PhotoBoard è gratuito per uso personale e professionale. Non è consentito ridistribuirlo o modificarlo. Vedi [LICENSE.txt](LICENSE.txt).
+PhotoBoard è **libera e gratuita**: usala, copiala e condividila con chi vuoi, così com'è e senza farla pagare. Non si può vendere né noleggiare. Vedi [LICENSE.txt](LICENSE.txt).
 
 ---
 
@@ -53,7 +53,7 @@ PhotoBoard is a light table for photographers: lay your photos on an infinite bo
 The app is signed with Developer ID and notarised by Apple, so it opens without warnings.
 
 ### Licence
-PhotoBoard is free for personal and professional use. Redistribution and modification are not permitted. See [LICENSE.txt](LICENSE.txt).
+PhotoBoard is **free to have and to share**: use it, copy it and pass it on to anyone, unchanged and free of charge. It may not be sold or rented. See [LICENSE.txt](LICENSE.txt).
 
 ---
 

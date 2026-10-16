@@ -1,6 +1,20 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.4 — 2026-10-17
+
+**Tre stili di icone per la barra strumenti, barra laterale che non copre il testo e nuova licenza libera.**
+- **Icone della barra strumenti in tre stili**, da scegliere in Impostazioni › Generale › Barra strumenti: **Sobria** (nuova, predefinita: simboli pieni a due toni, il colore solo su ciò che è attivo), **Tessere** (ogni gruppo ha la sua tessera colorata) e **Classica** (le icone di prima). In Sobria e Tessere «Sposta» diventa le quattro frecce, «Salva» la freccia nel vassoio, «Progetti» la pila di foto, «Guida» il punto di domanda.
+- **Nuova licenza**: PhotoBoard è libera e gratuita, si può copiare e condividere con chiunque così com'è; non si può vendere né noleggiare. La trovi nel disco di installazione e in Informazioni su PhotoBoard.
+- La barra laterale ha una larghezza minima che cresce con la dimensione del testo scelta: non si stringe più fino a tagliare il testo a sinistra. Trascinandola oltre il minimo si chiude del tutto (si riapre col pulsante Inspector).
+- Nella scheda Info la casella Seconda scelta e le scelte Piano e Luogo stanno su due righe e si adattano alla larghezza: erano loro a far uscire il contenuto dai bordi.
+
+*English* — **Three toolbar icon styles, a sidebar that no longer cuts off text and a new free licence.**
+- **Toolbar icons in three styles**, chosen in Settings › General › Toolbar: **Sober** (new, default: filled two-tone symbols, colour only on what is active), **Tiles** (each group has its own coloured tile) and **Classic** (the previous icons). In Sober and Tiles “Move” becomes the four arrows, “Save” the arrow into the tray, “Projects” the photo stack, “Guide” the question mark.
+- **New licence**: PhotoBoard is free of charge and free to share; it may be copied and passed on to anyone unchanged; it may not be sold or rented. You will find it on the installation disk and in About PhotoBoard.
+- The sidebar has a minimum width that grows with the chosen text size: it no longer narrows until the text is cut off on the left. Dragging past the minimum closes it completely (reopen it with the Inspector button).
+- In the Info tab the Second choice checkbox and the Shot and Place menus sit on two lines and adapt to the width: they were what pushed the content past the edges.
+
 ## 3.3 — 2026-10-16
 
 **Impostazioni a schede, foto aperta più chiara e animazione nuova.**
