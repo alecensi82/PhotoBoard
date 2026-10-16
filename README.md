@@ -7,6 +7,8 @@ A light table for studying, sequencing and presenting photographs · macOS 14 or
 
 <p align="center"><a href="https://github.com/alecensi82/PhotoBoard/releases/latest/download/PhotoBoard.dmg"><b>⬇︎ Scarica PhotoBoard / Download PhotoBoard</b></a></p>
 
+<p align="center"><a href="CHANGELOG.md">Novità di ogni versione / What's new in each version</a></p>
+
 ---
 
 ## Italiano
@@ -17,7 +19,7 @@ PhotoBoard è un tavolo luminoso per fotografi: metti le foto su un piano infini
 - **Storyline** con capitoli e didascalie, e analisi della sequenza (ritmo, apertura, chiusura, passaggi mancanti).
 - **Analisi** di luce, colore e composizione di ogni foto, e coerenza della serie.
 - **Confronto A/B, dittico e trittico** dentro la finestra del progetto.
-- **Foto aperta** con zoom fino al 400%, a piena risoluzione.
+- **Foto aperta** con zoom fino al 400%, a piena risoluzione, e le linee dell'analisi sopra la foto.
 - **Esportazioni**: cartelle numerate, storyboard PDF, Story Map, pagina web, rinomina in blocco, XMP per Lightroom e Capture One.
 - In **italiano** e **inglese**. Le foto restano sul tuo Mac: nessun dato viene inviato in rete.
 
@@ -40,7 +42,7 @@ PhotoBoard is a light table for photographers: lay your photos on an infinite bo
 - **Storyline** with chapters and captions, plus sequence analysis (rhythm, opening, closing, missing transitions).
 - **Analysis** of light, colour and composition for every photo, and series coherence.
 - **A/B compare, diptych and triptych** inside the project window.
-- **Open photo** with zoom up to 400%, at full resolution.
+- **Open photo** with zoom up to 400%, at full resolution, and the analysis lines over the photo.
 - **Exports**: numbered folders, PDF storyboard, Story Map, web page, batch rename, XMP for Lightroom and Capture One.
 - In **Italian** and **English**. Your photos stay on your Mac: no data is sent over the network.
 
