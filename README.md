@@ -21,7 +21,7 @@ PhotoBoard è un tavolo luminoso per fotografi: metti le foto su un piano infini
 - **Confronto A/B, dittico e trittico** dentro la finestra del progetto.
 - **Foto aperta** con zoom fino al 400%, a piena risoluzione, e le linee dell'analisi sopra la foto.
 - **Esportazioni**: cartelle numerate, storyboard PDF, Story Map, pagina web, rinomina in blocco, XMP per Lightroom e Capture One.
-- In **italiano** e **inglese**. Le foto restano sul tuo Mac: nessun dato viene inviato in rete.
+- In **italiano** e **inglese**. Le foto restano sul tuo Mac: nessun dato viene inviato in rete. **Aggiornamenti** dentro l'app (facoltativi): controlla le nuove versioni qui su GitHub e si aggiorna da sola.
 
 ### Installazione
 1. Scarica **PhotoBoard.dmg** dalla pagina [Releases](../../releases/latest).
@@ -44,7 +44,7 @@ PhotoBoard is a light table for photographers: lay your photos on an infinite bo
 - **A/B compare, diptych and triptych** inside the project window.
 - **Open photo** with zoom up to 400%, at full resolution, and the analysis lines over the photo.
 - **Exports**: numbered folders, PDF storyboard, Story Map, web page, batch rename, XMP for Lightroom and Capture One.
-- In **Italian** and **English**. Your photos stay on your Mac: no data is sent over the network.
+- In **Italian** and **English**. Your photos stay on your Mac: no data is sent over the network. **Updates** inside the app (optional): it checks this GitHub page for new versions and can update itself.
 
 ### Installation
 1. Download **PhotoBoard.dmg** from the [Releases](../../releases/latest) page.

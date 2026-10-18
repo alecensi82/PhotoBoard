@@ -1,6 +1,18 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.5 — 2026-10-18
+
+**Aggiornamenti dentro l'app: PhotoBoard controlla le nuove versioni su GitHub e si aggiorna da sola.**
+- **Cerca aggiornamenti…** nel menu PhotoBoard e in Impostazioni › Generale › Aggiornamenti. Se c'è una versione nuova vedi le novità e scegli *Aggiorna ora*, *Più tardi* o *Salta questa versione*.
+- **Controllo automatico** (facoltativo, spento finché non lo scegli): una volta al giorno, all'apertura, guarda se su GitHub c'è una release più recente. Al primo avvio ti viene chiesto se attivarlo. Contatta solo GitHub e non invia nessun dato tuo né delle tue foto.
+- **Installazione sicura**: scarica il disco, controlla che l'app sia firmata dallo stesso sviluppatore e accettata da macOS (notarizzazione Apple), poi si chiude, sostituisce la vecchia versione (che va nel Cestino) e si riapre. Se la cartella dell'app non è modificabile, scarica il disco e basta.
+
+*English* — **Updates inside the app: PhotoBoard checks GitHub for new versions and can update itself.**
+- **Check for Updates…** in the PhotoBoard menu and in Settings › General › Updates. If a new version exists you see what's new and choose *Update now*, *Later* or *Skip this version*.
+- **Automatic check** (optional, off until you choose it): once a day, at launch, it looks on GitHub for a newer release. On first launch you are asked whether to turn it on. It only contacts GitHub and sends none of your data or photos.
+- **Safe installation**: it downloads the disk image, checks that the app is signed by the same developer and accepted by macOS (Apple notarisation), then quits, replaces the old version (which goes to the Bin) and reopens. If the app's folder is not writable, it just downloads the disk image.
+
 ## 3.4 — 2026-10-17
 
 **Tre stili di icone per la barra strumenti, barra laterale che non copre il testo e nuova licenza libera.**
