@@ -1,6 +1,14 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.6 — 2026-10-18
+
+**Nella galleria dei progetti una barra per ingrandire o ridurre le anteprime.**
+- **Dimensione dei progetti**: nella finestra con tutti i progetti, in alto, un cursore ingrandisce o riduce le schede. La dimensione predefinita resta quella di sempre; il pulsante a freccia ci riporta subito e PhotoBoard ricorda la tua scelta.
+
+*English* — **A slider in the projects gallery to enlarge or shrink the previews.**
+- **Project size**: in the window with all your projects, a slider at the top enlarges or shrinks the cards. The default size is unchanged; the arrow button returns to it and PhotoBoard remembers your choice.
+
 ## 3.5 — 2026-10-18
 
 **Aggiornamenti dentro l'app: PhotoBoard controlla le nuove versioni su GitHub e si aggiorna da sola.**
