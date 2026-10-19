@@ -1,6 +1,18 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.9 — 2026-10-20
+
+**Tre stili per la finestra (predefinito: Studio scuro), anteprime dei progetti uniformi e correzione delle stelle giganti sul tavolo.**
+- **Aspetto della finestra**, in Impostazioni › Generale: **Studio scuro** (predefinito: grafite, aree come vetro scuro, foto con ombra morbida), **Carta chiara** (tavolo color carta, ogni foto con il bordo bianco come una stampa), **Vetro** (toni freddi, angoli grandi) e **Classico** (l'aspetto di prima). Con uno stile diverso da Classico lo sfondo del tavolo è quello dello stile; la scelta «Sfondo» del progetto resta salvata.
+- **Galleria dei progetti**: le anteprime non hanno più la banda di colore diverso dal fondo; tutte le schede hanno lo stesso sfondo.
+- Corretto un difetto per cui, dopo aver rimpicciolito molto il tavolo e poi ingrandito, le stelle e le bandierine sulle foto comparivano gigantesche con grandi macchie scure.
+
+*English* — **Three window styles (default: Dark studio), uniform project previews and a fix for giant stars on the table.**
+- **Window look**, in Settings › General: **Dark studio** (default: graphite, areas like dark glass, photos with a soft shadow), **Light paper** (paper-coloured table, every photo with a white border like a print), **Glass** (cool tones, large corners) and **Classic** (the previous look). With a style other than Classic the table background is the style's own; the project's “Background” choice stays saved.
+- **Projects gallery**: previews no longer have a band of a different colour from the background; all cards share the same background.
+- Fixed a defect where, after zooming the table far out and back in, the stars and flags on photos appeared giant with large dark blotches.
+
 ## 3.8 — 2026-10-19
 
 **La nuova icona ovunque, anche per chi aveva scelto una icona classica; link senza il blu.**
