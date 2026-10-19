@@ -1,6 +1,16 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.8 — 2026-10-19
+
+**La nuova icona ovunque, anche per chi aveva scelto una icona classica; link senza il blu.**
+- Chi aveva scelto in passato una delle icone classiche vede ora la nuova icona nel Dock e in Informazioni su PhotoBoard (una sola volta: puoi sempre riscegliere la classica in Impostazioni).
+- In Informazioni su PhotoBoard l'indirizzo e-mail e il sito hanno il colore scelto in Impostazioni e non più il blu di sistema; la riga del copyright non viene più tagliata.
+
+*English* — **The new icon everywhere, even for those who had picked a classic icon; links without the blue.**
+- Anyone who had picked one of the classic icons now sees the new icon in the Dock and in About PhotoBoard (just once: you can always pick the classic one again in Settings).
+- In About PhotoBoard the e-mail address and website use the colour chosen in Settings instead of the system blue; the copyright line is no longer cut off.
+
 ## 3.7 — 2026-10-19
 
 **Nuova icona dell'app, con altre cinque varianti neon da scegliere nelle Impostazioni.**
