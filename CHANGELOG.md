@@ -1,6 +1,16 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.7 — 2026-10-19
+
+**Nuova icona dell'app, con altre cinque varianti neon da scegliere nelle Impostazioni.**
+- **Nuova icona principale**: tre diapositive luminose su fondo scuro, con le guide e i punti di controllo del tavolo. È quella che vedi nel Dock e in Applicazioni.
+- In Impostazioni › Generale › Colore dell'icona trovi cinque varianti neon (ambra, blu, turchese, verde, viola) e, sotto, le icone classiche di prima, che restano.
+
+*English* — **New app icon, with five more neon variants to choose in Settings.**
+- **New main icon**: three glowing slides on a dark background, with the table's guides and control points. It is the one you see in the Dock and in Applications.
+- In Settings › General › Icon colour you will find five neon variants (amber, blue, turquoise, green, violet) and, below them, the previous classic icons, which remain.
+
 ## 3.6 — 2026-10-18
 
 **Nella galleria dei progetti una barra per ingrandire o ridurre le anteprime.**
