@@ -1,6 +1,18 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.9.1 — 2026-10-20
+
+**Doppioni nell'area, pulsante «Mostra tutto» nella barra e aree con più profondità.**
+- **Doppioni nell'area**: dal menu del titolo di un'area trovi le foto quasi identiche e scegli se **eliminarle dalla board**, **portarle fuori dall'area** o **portarle nell'area «Doppioni»**, che raccoglie quelli di tutte le aree. Per ogni gruppo resta la foto con più stelle.
+- **Mostra tutto**: un pulsante nella barra (dopo «Zoom +») porta il tavolo alla dimensione in cui si vedono tutte le foto, con un margine più stretto di prima.
+- **Aree con profondità** negli stili Studio scuro, Carta chiara e Vetro: ombra attorno all'area, riflesso morbido in alto e bordo di luce, per staccarle dal tavolo.
+
+*English* — **Duplicates in the area, a “Show all” button in the toolbar and areas with more depth.**
+- **Duplicates in the area**: from an area's title menu you find near-identical photos and choose whether to **delete them from the board**, **move them out of the area** or **move them to the “Duplicates” area**, which collects those of all areas. In each group the photo with the most stars stays.
+- **Show all**: a toolbar button (after “Zoom +”) brings the table to the size where all photos are visible, with a tighter margin than before.
+- **Areas with depth** in the Dark studio, Light paper and Glass styles: a shadow around the area, a soft highlight at the top and a rim of light, to lift them off the table.
+
 ## 3.9 — 2026-10-20
 
 **Tre stili per la finestra (predefinito: Studio scuro), anteprime dei progetti uniformi e correzione delle stelle giganti sul tavolo.**
