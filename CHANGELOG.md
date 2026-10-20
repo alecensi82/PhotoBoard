@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 3.9.2 — 2026-10-20
+
+**Cornice delle aree neutra di base, aree trascinabili dalla targhetta, titoli non più tagliati e stelle proporzionate alle foto.**
+- **Cornice neutra**: di base le aree hanno la cornice neutra e solo la targhetta con il nome colorata. In Impostazioni › Tavolo › Aree puoi scegliere la cornice colorata, del colore dell'area.
+- **Sposta l'area dalla targhetta**: tieni premuto sul nome dell'area e trascina, in Naviga come in Sposta e senza premere Spazio. Il clic apre ancora il menu, il doppio clic zooma sull'area.
+- **Titoli non più tagliati**: «Mostra tutto» e lo zoom su un'area tengono conto della barra strumenti e della targhetta del titolo, che prima finiva sotto la barra.
+- **Stelle e bandierine proporzionate**: si rimpiccioliscono insieme alla foto e spariscono quando la foto è troppo piccola per leggerle.
+- Nelle Impostazioni lo stile si chiama semplicemente «Classico» e la sezione «Aspetto della finestra» non porta più la scritta «prova».
+
+*English* — **Neutral area frame by default, areas draggable by their label, titles no longer cut off and stars proportional to photos.**
+- **Neutral frame**: by default areas have a neutral frame and only the label with the name is coloured. In Settings › Table › Areas you can choose the coloured frame, in the area's colour.
+- **Move the area by its label**: press and hold on the area's name and drag, in Navigate as in Move and without pressing Space. A click still opens the menu, a double click zooms on the area.
+- **Titles no longer cut off**: “Show all” and zooming on an area now account for the toolbar and the title label, which used to end up under the toolbar.
+- **Proportional stars and flags**: they shrink with the photo and disappear when the photo is too small to read them.
+- In Settings the style is simply called “Classic” and the “Window look” section no longer says “trial”.
+
 ## 3.9.1 — 2026-10-20
 
 **Doppioni nell'area, pulsante «Mostra tutto» nella barra e aree con più profondità.**
