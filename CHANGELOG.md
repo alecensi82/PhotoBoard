@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0 — 2026-10-21
+
+**Nuova analisi del colore: ruota dei colori grande e spiegata, rapporti 70/20/10 e varianti, colori misurati senza i neutri. E finalmente le foto con gli angoli arrotondati.**
+- **Colori senza i neutri**: masse, ruota e rapporti si calcolano solo sulle parti colorate, pixel per pixel. Asfalto, ombre e cielo coperto non coprono più i colori veri; una barra dice quanti neutri ci sono.
+- **Ruota dei colori**: grande nella barra laterale, con il nome dell'accostamento (complementari, analoghi, triade, complementari divisi, monocromatico, neutri con accento) e cosa vuol dire. Un clic la apre in una finestra ridimensionabile, con lo schema dei colori, la miniatura della foto e la legenda.
+- **Rapporti tra i colori**: 90/8/2, 80/15/5, 70/20/10, 70/30, 60/30/10, 60/25/15 e 50/40/10. PhotoBoard indica il più vicino, spiega che risultato dà e li mostra tutti con i colori della foto. Avvisa quando un piccolo colore saturo pesa più della sua area.
+- **Guida: «Ruota dei colori e rapporti»**, spiegata da zero, con fotografie d'esempio analizzate dal vivo.
+- **Angoli arrotondati delle foto sul tavolo**: l'impostazione non aveva effetto per un errore nel disegno delle foto; ora funziona.
+
+*English* — **New colour analysis: a large, explained colour wheel, 70/20/10 ratios and variants, colours measured without the neutrals. And at last, photos with rounded corners.**
+- **Colours without the neutrals**: masses, wheel and ratios are computed only on the coloured parts, pixel by pixel. Asphalt, shadows and overcast sky no longer hide the real colours; a bar shows how much is neutral.
+- **Colour wheel**: large in the sidebar, with the name of the combination (complementary, analogous, triad, split complementary, monochromatic, neutrals with an accent) and what it means. A click opens it in a resizable window, with the colour bar, the photo thumbnail and the legend.
+- **Colour ratios**: 90/8/2, 80/15/5, 70/20/10, 70/30, 60/30/10, 60/25/15 and 50/40/10. PhotoBoard shows the closest one, explains the result it gives and lists them all in the photo's colours. It warns when a small saturated colour weighs more than its area.
+- **Guide: “Colour wheel and ratios”**, explained from scratch, with example photographs analysed live.
+- **Rounded corners of photos on the table**: the setting had no effect because of a drawing error; it now works.
+
 ## 3.9.2 — 2026-10-20
 
 **Cornice delle aree neutra di base, aree trascinabili dalla targhetta, titoli non più tagliati e stelle proporzionate alle foto.**
