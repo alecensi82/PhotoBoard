@@ -1,6 +1,24 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.1 — 2026-10-28
+
+**Impaginatore di zine nella finestra del progetto, nuovi temi in stile iPad con i comandi in basso, galleria nello stesso tema e benvenuto con giro guidato.**
+- **Zine**: un nuovo pulsante accanto a Storyline apre l'impaginatore di zine al posto del tavolo (⇧⌘J). Fascicolo cucito (fino a 40 facciate) o foglio singolo da 8 pagine, formato A4 o A3, copertine con titolo, layout a uno o due riquadri, testi, didascalie e immagini a doppia pagina. Le foto si trascinano dalla striscia in basso (storyline, capitoli, aree o tutto il tavolo); le frecce passano da una doppia pagina all'altra.
+- **PDF dello zine pronto da stampare**: fogli già nell'ordine giusto per stampare fronte-retro, piegare e rilegare, con la stampa di prova numerata e una guida di stampa calcolata sul tuo zine. Si possono aprire e salvare anche i progetti EasyZine.
+- **Nuovi temi**: Vetro chiaro, Vetro scuro e Grafite e colore, in stile iPad: titolo in alto e tutti i comandi in una barra arrotondata in basso, che segue le scelte della barra degli strumenti (icone e testo, solo icone, solo testo; stile e dimensione delle icone). Con «Solo icone» il nome compare passando sopra con il mouse. Tolti i temi Carta chiara e Vetro: chi li usava passa a Studio scuro.
+- **Un solo tema in tutta l'app**: anche le anteprime nella galleria dei progetti si disegnano con il tema attivo e cambiano quando lo cambi. La prima volta una barra mostra l'avanzamento; poi restano pronte.
+- **Benvenuto e giro guidato**: alla prima apertura una finestra spiega PhotoBoard e propone un giro di un minuto tra le parti principali, che si può saltare. Si rivede da Aiuto › Benvenuto e giro guidato.
+- Le viste sono nell'ordine **Tavolo, Confronta, Storyline, Zine**, anche nella barra degli strumenti.
+
+*English* — **Zine layout inside the project window, new iPad-style themes with the commands at the bottom, a gallery in the same theme, and a welcome with a guided tour.**
+- **Zine**: a new button next to Storyline opens the zine layout in place of the table (⇧⌘J). Stapled booklet (up to 40 pages) or an 8-page single sheet, A4 or A3, covers with a title, one- or two-frame layouts, text, captions and images across a spread. Drag photos from the strip at the bottom (storyline, chapters, areas or the whole table); the arrow keys move between spreads.
+- **Print-ready zine PDF**: sheets already in the right order to print double-sided, fold and bind, with a numbered proof print and a printing guide worked out for your zine. EasyZine projects can be opened and saved too.
+- **New themes**: Light glass, Dark glass and Graphite & colour, in iPad style: the title at the top and all commands in a rounded bar at the bottom, which follows the toolbar choices (icons and text, icons only, text only; icon style and size). With “Icons only” the name appears when you hover. The Light paper and Glass themes are gone: anyone using them moves to Dark studio.
+- **One theme across the app**: the previews in the project gallery are also drawn in the active theme and change when you change it. The first time a bar shows the progress; after that they stay ready.
+- **Welcome and guided tour**: on first launch a window explains PhotoBoard and offers a one-minute tour of the main parts, which you can skip. Replay it from Help › Welcome and guided tour.
+- The views are now in the order **Table, Compare, Storyline, Zine**, in the toolbar too.
+
 ## 4.0 — 2026-10-21
 
 **Nuova analisi del colore: ruota dei colori grande e spiegata, rapporti 70/20/10 e varianti, colori misurati senza i neutri. E finalmente le foto con gli angoli arrotondati.**
