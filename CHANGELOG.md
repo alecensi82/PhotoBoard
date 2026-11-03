@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.2 — 2026-11-04
+
+**Nuova sezione Reportage (beta): un racconto lungo con ingresso, corpo e conclusione, i ruoli delle foto, le note e i provini a contatto.**
+- **Reportage (beta)**: accanto alla Storyline (⇧⌘L), per i lavori lunghi. Un solo racconto dall'apertura alla chiusura, diviso in **Ingresso**, **Corpo** (anche in capitoli) e **Conclusione**, segnati da una linea colorata sotto le foto e da barre verticali tra le parti.
+- **Ruoli delle foto**: foto forte (F), racconto (R), passaggio (P), scritti in modo sobrio sotto la foto. In alto la barra del ritmo mostra dove il racconto ha i suoi punti forti. In Impostazioni › Reportage si possono avere le foto grandi o piccole secondo il ruolo, a colori.
+- **Come regge il racconto**: controlli sulla struttura (apertura, chiusura, quante foto forti, forti di fila, tratti lunghi senza una foto forte, cambi di capitolo senza passaggio) e analisi delle immagini con le candidate per apertura e chiusura. **Proponi i ruoli** suggerisce forti e passaggi; i ruoli scelti a mano non si toccano.
+- **Trascinare come sull'iPhone**: spostando una foto, nel racconto resta il suo spazio vuoto, che scivola dove passi; dall'archivio in basso si apre uno spazio dove la foto andrà. Doppio clic: la foto grande, con le frecce e l'etichetta del ruolo.
+- **Titolo, note e provini**: titolo e note generali del reportage, una nota per ogni foto. **Esporta** crea i **provini a contatto** (tutte le foto su una pagina PDF, con ruoli e note) oppure le foto numerate in una cartella. **Presenta** mostra il reportage a schermo intero, con i capitoli.
+
+*English* — **New Reportage section (beta): a long story with an opening, a body and a conclusion, photo roles, notes and contact sheets.**
+- **Reportage (beta)**: next to the Storyline (⇧⌘L), for long projects. One story from opening to close, divided into **Opening**, **Body** (also in chapters) and **Conclusion**, marked by a coloured line under the photos and vertical bars between the parts.
+- **Photo roles**: key image (F), story (R), transition (P), written discreetly under the photo. At the top the rhythm bar shows where the story has its strong points. In Settings › Reportage photos can be sized by role, in colour.
+- **How the story holds up**: structure checks (opening, closing, how many key images, key images in a row, long stretches without one, chapter changes without a transition) and image analysis with candidates for opening and closing. **Suggest roles** proposes key images and transitions; roles you set by hand are left alone.
+- **Drag like on iPhone**: when you move a photo, its empty slot stays in the story and slides to where you hover; from the archive below a space opens where the photo will go. Double-click: the photo large, with arrow keys and the role label.
+- **Title, notes and contact sheets**: a title and general notes for the reportage, a note for each photo. **Export** creates **contact sheets** (all photos on one PDF page, with roles and notes) or numbered photos in a folder. **Present** shows the reportage full screen, with its chapters.
+
 ## 4.0.1 — 2026-10-28
 
 **Impaginatore di zine nella finestra del progetto, nuovi temi in stile iPad con i comandi in basso, galleria nello stesso tema e benvenuto con giro guidato.**
