@@ -1,6 +1,14 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.6 — 2026-11-05
+
+**Il tavolo si sposta di nuovo trascinando con il mouse: nella 4.0.5 a volte restava fermo.**
+- **Spostarsi nel tavolo**: nella 4.0.5 il trascinamento con il mouse in modalità Naviga a volte non spostava il tavolo (lo sfondo del tema, invisibile, prendeva i clic). Ora il tavolo si sposta sempre; lo scorrimento a due dita sul trackpad funzionava già.
+
+*English* — **You can drag the board with the mouse again: in 4.0.5 it sometimes stayed put.**
+- **Moving around the board**: in 4.0.5, dragging with the mouse in Navigate mode sometimes didn't move the board (the invisible theme background was catching the clicks). Now the board always moves; two-finger scrolling on the trackpad already worked.
+
 ## 4.0.5 — 2026-11-04
 
 **Nuovo tema Notte, come il sito di PhotoBoard; hashtag con Invio; tolti Grafite e colore e Vetro chiaro.**
