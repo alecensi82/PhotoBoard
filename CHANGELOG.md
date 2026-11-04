@@ -1,6 +1,14 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.4 — 2026-11-04
+
+**Feedback: dalle Impostazioni o dal menu Aiuto si scrive una mail all'autore, già pronta.**
+- **Feedback**: in Impostazioni c'è un campo per scrivere un suggerimento, un problema o un'idea; **Scrivi la mail…** apre la tua app di posta con la mail già pronta (destinatario, oggetto, il testo e le versioni di PhotoBoard e macOS). Anche da Aiuto › Invia un feedback. L'invio lo fai tu: PhotoBoard non invia nulla da solo.
+
+*English* — **Feedback: from Settings or the Help menu you can write a ready-made email to the author.**
+- **Feedback**: Settings has a field to write a suggestion, a problem or an idea; **Write the email…** opens your mail app with the email ready (recipient, subject, your text and the PhotoBoard and macOS versions). Also from Help › Send feedback. You do the sending: PhotoBoard never sends anything by itself.
+
 ## 4.0.3 — 2026-11-04
 
 **Reportage senza foto doppie: di base una sola foto per file, con la spunta per includere i duplicati.**
