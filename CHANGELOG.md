@@ -1,6 +1,14 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.3 — 2026-11-04
+
+**Reportage senza foto doppie: di base una sola foto per file, con la spunta per includere i duplicati.**
+- **Reportage senza duplicati**: nell'archivio in basso e con **Riempi** non compaiono più le copie virtuali né lo stesso file presente due volte sul tavolo. La spunta **Includi i duplicati**, accanto a «Solo non usate», li rimette.
+
+*English* — **Reportage without double photos: one photo per file by default, with a checkbox to include duplicates.**
+- **Reportage without duplicates**: the archive at the bottom and **Fill** no longer show virtual copies or the same file placed twice on the table. The **Include duplicates** checkbox, next to “Unused only”, brings them back.
+
 ## 4.0.2 — 2026-11-04
 
 **Nuova sezione Reportage (beta): un racconto lungo con ingresso, corpo e conclusione, i ruoli delle foto, le note e i provini a contatto.**
