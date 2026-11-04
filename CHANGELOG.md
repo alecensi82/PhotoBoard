@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.5 — 2026-11-04
+
+**Nuovo tema Notte, come il sito di PhotoBoard; hashtag con Invio; tolti Grafite e colore e Vetro chiaro.**
+- **Tema Notte**: riprende il sito photoboard.it, blu notte profondo con la barra in basso in vetro e il bordo ciano-viola. Il tavolo ha un colore pieno, senza sfumature; la galleria dei progetti ha gli aloni viola e petrolio del sito.
+- **Tutte le viste seguono il tema**: Reportage, Zine, Confronta, Storyline (anche la barra in alto) e la foto aperta prendono il colore del tema invece del grigio; dietro le viste a tutto schermo il tavolo non si intravede più. Con «Valuta le foto su grigio neutro» acceso la foto aperta resta su grigio, apposta.
+- **Temi**: tolti Grafite e colore e Vetro chiaro; chi li usava passa a Studio scuro. Restano Classico, Studio scuro, Vetro scuro e Notte.
+- **Post per i social, hashtag più veloci**: scrivi una parola nel campo hashtag e premi Invio: diventa #parola e va in fondo alla descrizione, con la ✕ per toglierla.
+- **Fotografo**: nelle Informazioni PhotoBoard è «creata da un fotografo e fatta per fotografi».
+
+*English* — **New Night theme, like the PhotoBoard website; hashtags with Return; Graphite & colour and Light glass removed.**
+- **Night theme**: echoes the photoboard.it website, deep midnight blue with the bottom bar in glass and a cyan-violet edge. The table has a solid colour, no gradients; the project gallery has the website's violet and teal glows.
+- **All views follow the theme**: Reportage, Zine, Compare, Storyline (top bar included) and the open photo take the theme colour instead of grey; the table no longer shows through behind full-window views. With “Evaluate photos on neutral grey” on, the open photo stays on grey on purpose.
+- **Themes**: Graphite & colour and Light glass removed; anyone using them moves to Dark studio. Classic, Dark studio, Dark glass and Night remain.
+- **Posts for social media, faster hashtags**: type a word in the hashtag field and press Return: it becomes #word and goes at the end of the caption, with a ✕ to remove it.
+- **Photographer**: in About, PhotoBoard is “made by a photographer for photographers”.
+
 ## 4.0.4 — 2026-11-04
 
 **Storyline anche per i post Instagram, con anteprima della copertina; feedback via mail; scala del piano più affidabile.**
