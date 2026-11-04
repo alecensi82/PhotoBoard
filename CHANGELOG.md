@@ -3,11 +3,17 @@ Storico delle versioni, dalla più recente. / Version history, newest first.
 
 ## 4.0.4 — 2026-11-04
 
-**Feedback: dalle Impostazioni o dal menu Aiuto si scrive una mail all'autore, già pronta.**
+**Storyline anche per i post Instagram, con anteprima della copertina; feedback via mail; scala del piano più affidabile.**
+- **Storyline per i post**: in alto nella Storyline scegli **Sequenza** o **Post per i social**. In modalità post ogni capitolo è un post (Post 1, Post 2…), un carosello fino a 20 foto con la prima come **copertina**. A destra l'**anteprima come su Instagram**: nel feed (Originale, 1:1, 4:5 o 3:4, senza bordi; trascina la foto per scegliere il taglio) e nella griglia del profilo 3:4; descrizione con il punto «… altro», al massimo 5 hashtag con proposte dal luogo e dalla serie, testo alternativo per ogni foto. **Esporta per Instagram** salva le foto intere, mai tagliate, e copia la descrizione.
 - **Feedback**: in Impostazioni c'è un campo per scrivere un suggerimento, un problema o un'idea; **Scrivi la mail…** apre la tua app di posta con la mail già pronta (destinatario, oggetto, il testo e le versioni di PhotoBoard e macOS). Anche da Aiuto › Invia un feedback. L'invio lo fai tu: PhotoBoard non invia nulla da solo.
+- **Offrimi un caffè**: un piccolo badge in basso a sinistra sul tavolo apre la donazione PayPal: 5, 10 o 20 € oppure una somma a scelta. La ✕ lo nasconde; si rimette da Impostazioni › Generale › Feedback.
+- **Scala del piano più onesta**: piano stretto, medio o largo ora si misura dalla grandezza dei volti e delle persone nella foto; se non ci sono persone la scala non viene stimata (la puoi indicare a mano nel pannello Foto). Tolti i falsi avvisi del Reportage come «4 piani stretti di fila».
 
-*English* — **Feedback: from Settings or the Help menu you can write a ready-made email to the author.**
+*English* — **Storyline for Instagram posts too, with cover preview; feedback by email; more reliable shot scale.**
+- **Storyline for posts**: at the top of the Storyline choose **Sequence** or **Posts for social media**. In post mode each chapter is a post (Post 1, Post 2…), a carousel of up to 20 photos with the first as the **cover**. On the right, the **preview as on Instagram**: in the feed (Original, 1:1, 4:5 or 3:4, no borders; drag the photo to choose the crop) and in the 3:4 profile grid; caption with the “… more” point, up to 5 hashtags with suggestions from the place and the series, alt text for each photo. **Export for Instagram** saves whole photos, never cropped, and copies the caption.
 - **Feedback**: Settings has a field to write a suggestion, a problem or an idea; **Write the email…** opens your mail app with the email ready (recipient, subject, your text and the PhotoBoard and macOS versions). Also from Help › Send feedback. You do the sending: PhotoBoard never sends anything by itself.
+- **Buy me a coffee**: a small badge at the bottom left of the table opens a PayPal donation: €5, €10, €20 or a custom amount. The ✕ hides it; turn it back on in Settings › General › Feedback.
+- **More honest shot scale**: close, medium or wide is now measured from the size of faces and people in the photo; with no people the scale is not estimated (you can set it by hand in the Photo panel). Removes false Reportage warnings such as “4 close shots in a row”.
 
 ## 4.0.3 — 2026-11-04
 
