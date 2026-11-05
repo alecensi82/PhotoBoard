@@ -1,6 +1,18 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.9 — 2026-11-05
+
+**Inspector utile anche nella Libreria; stelle dal tastierino numerico.**
+- **Inspector nella Libreria**: scegliendo una foto, anche se non è sul tavolo, a destra vedi anteprima, stelle, analisi, tag, mood e note, e puoi cambiarli. Una riga dice se è sul tavolo luminoso, con **Manda al tavolo**, **Togli dal tavolo** e **Mostra sul tavolo**. Nella Libreria restano solo le schede Info e Tag; senza foto selezionate vedi i numeri della Libreria e i suoi comandi.
+- **Foto aperta dalla Libreria**: l'Inspector segue la foto che stai guardando, con la sua analisi.
+- **Tastierino numerico**: i numeri del tastierino danno le stelle come quelli sopra le lettere, nella griglia e nella foto aperta. Nella Libreria anche P, X e U per la bandierina.
+
+*English* — **Useful Inspector in the Library too; stars from the numeric keypad.**
+- **Inspector in the Library**: when you pick a photo, even one not on the board, on the right you see preview, stars, analysis, tags, mood and notes, and you can change them. A row says whether it's on the light board, with **Send to the board**, **Remove from the board** and **Show on the board**. In the Library only the Info and Tag tabs remain; with no photo selected you see the Library's numbers and commands.
+- **Photo opened from the Library**: the Inspector follows the photo you're looking at, with its analysis.
+- **Numeric keypad**: the keypad numbers give stars like the ones above the letters, in the grid and in the open photo. In the Library also P, X and U for the flag.
+
 ## 4.0.8 — 2026-11-05
 
 **Nuova Libreria come in Lightroom: si parte da lì e si mandano al tavolo luminoso solo le foto che servono; cartelle e cartelle smart; Reportage non più in prova.**
