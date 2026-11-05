@@ -1,6 +1,20 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.7 — 2026-11-05
+
+**Post per Instagram in una vista a sé, separata dalla Storyline; trascinamento animato come nel Reportage; menu Esporta secondo la vista aperta.**
+- **Post, una vista a sé**: il nuovo pulsante **Post** (accanto a Storyline, ⌥⌘I, anche nel menu Vista) apre i post per Instagram. I post sono separati dalla sequenza della Storyline: puoi avere una sequenza per la mostra e post diversi per i social. Per iniziare: **Post dalle aree…**, **Dalla Storyline** (un post per capitolo) o **Faccio da solo**. I progetti che usavano la Storyline in modalità post ritrovano lì i loro post.
+- **Trascinare nella Storyline e nei Post**: come nel Reportage, spostando una foto le altre si aprono e scivolano al loro posto; portando una foto dall'archivio tra due foto si apre lo spazio dove andrà. Uno spostamento intero si annulla con un solo ⌘Z.
+- **Ruoli nel Reportage**: Forte, Racconto e Passaggio sono tre pulsanti grandi, con icona, colore e tasto, sotto «Ruolo di questa foto nel racconto», con la spiegazione di cosa cambiano.
+- **Menu Esporta**: nella barra e nel dock mostra solo le esportazioni della vista aperta (Tavolo, Storyline, Post, Reportage, Zine).
+
+*English* — **Instagram posts in a view of their own, separate from the Storyline; animated dragging as in Reportage; Export menu that follows the open view.**
+- **Post, a view of its own**: the new **Post** button (next to Storyline, ⌥⌘I, also in the View menu) opens Instagram posts. Posts are separate from the Storyline sequence: you can have one sequence for the exhibition and different posts for social media. To start: **Posts from areas…**, **From the Storyline** (one post per chapter) or **I'll do it myself**. Projects that used the Storyline in post mode find their posts there.
+- **Dragging in Storyline and Posts**: as in Reportage, when you move a photo the others open up and slide into place; bringing a photo from the archive between two photos opens the space where it will go. A whole move is undone with a single ⌘Z.
+- **Roles in Reportage**: Key, Story and Transition are three large buttons, with icon, colour and key, under “Role of this photo in the story”, with an explanation of what they change.
+- **Export menu**: in the toolbar and the dock it shows only the exports of the open view (Board, Storyline, Post, Reportage, Zine).
+
 ## 4.0.6 — 2026-11-05
 
 **Il tavolo si sposta di nuovo trascinando con il mouse: nella 4.0.5 a volte restava fermo.**
