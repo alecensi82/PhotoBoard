@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.8 — 2026-11-05
+
+**Nuova Libreria come in Lightroom: si parte da lì e si mandano al tavolo luminoso solo le foto che servono; cartelle e cartelle smart; Reportage non più in prova.**
+- **Libreria**: la nuova pagina da cui si parte (⇧⌘B, prima di Tavolo). Una griglia con tutte le foto del progetto, a celle, intere o a mosaico, con stelle sotto o sulla foto, aree e nomi; ordini per data, nome, stelle o a mano trascinando, e l'ordine resta per ogni cartella. Ordine e impostazioni sono della Libreria: il tavolo non cambia.
+- **Dalla Libreria al tavolo luminoso**: importando, le foto entrano nella Libreria e non riempiono più il tavolo. Tasto destro su una foto o una cartella › **Manda al tavolo luminoso** (una cartella diventa un'area con il suo nome) o **Togli dal tavolo luminoso**; le foto sul tavolo hanno il segno **Sul tavolo**. Sul tavolo ⌫ toglie la foto dal tavolo e la lascia nella Libreria con stelle e tag.
+- **Cartelle e cartelle smart**: a sinistra le cartelle del disco con le sottocartelle, come in Lightroom, e le **cartelle smart** che raccolgono da sole le foto per stelle, bandierina, area, cartella, bianco e nero o colore, fotocamera, tag, orientamento.
+- **Stelle con i numeri**: nella Libreria, e nella foto aperta dalla Libreria, i tasti 0–5 danno le stelle; sotto la foto aperta si vede bene quante sono.
+- **Reportage**: non è più in prova, tolto il bollino BETA.
+
+*English* — **New Lightroom-style Library: you start there and send to the light board only the photos you need; folders and smart folders; Reportage is no longer a preview.**
+- **Library**: the new page where you start (⇧⌘B, before Board). A grid with all the photos of the project, as cells, whole or mosaic, with stars below or on the photo, areas and names; sort by date, name, stars or by hand by dragging, and the order is kept for each folder. Order and settings belong to the Library: the board doesn't change.
+- **From the Library to the light board**: when you import, photos go into the Library and no longer fill the board. Right-click a photo or folder › **Send to the light board** (a folder becomes an area with its name) or **Remove from the light board**; photos on the board have the **On the board** mark. On the board ⌫ removes the photo from the board and keeps it in the Library with stars and tags.
+- **Folders and smart folders**: on the left the folders on disk with their subfolders, as in Lightroom, and **smart folders** that gather photos by themselves by stars, flag, area, folder, black and white or colour, camera, tag, orientation.
+- **Stars with the numbers**: in the Library, and in a photo opened from the Library, keys 0–5 give stars; below the open photo you can clearly see how many.
+- **Reportage**: no longer a preview, the BETA badge is gone.
+
 ## 4.0.7 — 2026-11-05
 
 **Post per Instagram in una vista a sé, separata dalla Storyline; trascinamento animato come nel Reportage; menu Esporta secondo la vista aperta.**
