@@ -1,6 +1,20 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.10 — 2026-11-08
+
+**Vettorscopio per foto e serie, Inspector a sezioni come Lightroom, Notte tema predefinito.**
+- **Vettorscopio**: tinte e saturazione di una foto o di un insieme (area, selezione, post, capitolo, storyline, reportage) su un cerchio come negli strumenti video. Per una serie: coerenza delle tinte, saturazione uniforme e le foto che si allontanano dalle altre, con il motivo. **Apri in grande** con zoom e la traccia di ogni foto sopra la serie.
+- **Inspector a sezioni**: come il pannello Sviluppo di Lightroom, le informazioni a destra sono in sezioni che si aprono, si chiudono (⌥-clic: una sola aperta) e si riordinano trascinandole; anche nella scheda Foto della Storyline e nel Reportage.
+- **Storyline e Post**: nuova scheda **Colore** e menu **Analizza** per scegliere tutto o un solo capitolo/post; dalla foto, «Analizza tutto il post di questa foto».
+- **Tema Notte predefinito** per chi inizia; galleria dei progetti a sfondo pieno e pannello dei Post in tinta con il tema; nel dock **Progetti** viene per primo e «Altro» è spento nella Libreria.
+
+*English* — **Vectorscope for photos and series, Lightroom-style Inspector sections, Night as default theme.**
+- **Vectorscope**: hues and saturation of a photo or a set (area, selection, post, chapter, storyline, reportage) on a circle as in video instruments. For a series: hue coherence, even saturation and the photos that stray from the others, with the reason. **Open large** with zoom and each photo's trace over the series.
+- **Inspector in sections**: like Lightroom's Develop panel, the information on the right is in sections you open, close (⌥-click: only one open) and reorder by dragging; also in the Storyline Photo tab and in Reportage.
+- **Storyline and Post**: new **Colour** tab and **Analyse** menu to choose everything or a single chapter/post; from the photo, “Analyse the whole post of this photo”.
+- **Night theme by default** for new users; project gallery with a flat background and the Post panel matching the theme; in the dock **Projects** comes first and “More” is off in the Library.
+
 ## 4.0.9 — 2026-11-05
 
 **Inspector utile anche nella Libreria; stelle dal tastierino numerico.**
