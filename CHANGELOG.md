@@ -1,6 +1,14 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.11 — 2026-11-08
+
+**Storyline e Post si adattano alle finestre strette.**
+- **Storyline e Post con la finestra stretta**: l'anteprima del post si restringe quando manca spazio, i pulsanti in alto restano solo icona e la barra dell'archivio va su più righe. Le scritte non vanno più a capo una lettera alla volta e nulla esce dai bordi.
+
+*English* — **Storyline and Post adapt to narrow windows.**
+- **Storyline and Post in a narrow window**: the post preview shrinks when space is short, the top buttons become icons only and the archive bar wraps onto several rows. Labels no longer break one letter per line and nothing spills past the edges.
+
 ## 4.0.10 — 2026-11-08
 
 **Vettorscopio per foto e serie, Inspector a sezioni come Lightroom, Notte tema predefinito.**
