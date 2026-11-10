@@ -1,6 +1,28 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.12 — 2026-11-10
+
+**Analisi più affidabile: il fulcro cade sul soggetto, colore letto meglio, raffiche scelte per nitidezza vera; «In breve» in cima all'analisi e apertura più rapida.**
+- **In breve**: in cima all'analisi di ogni foto, le tre cose che contano dette in parole semplici (dove va lo sguardo, cosa può disturbare, luce e colore). Il dettaglio con i numeri resta nelle sezioni sotto.
+- **Fulcro**: ora tiene conto di dove cade davvero lo sguardo (riconoscimento dell'attenzione di Apple, sul Mac e senza internet): finisce sul soggetto e non più su un bordo molto contrastato. Volti e persone si cercano anche quando sono piccoli.
+- **Orizzonte**: una linea lunga vale come orizzonte solo se separa davvero due zone; un marciapiede o il bordo di un tavolo non fanno più dire che la foto pende.
+- **Colore**: i toni terra (legno, mattone, muri) non sono più scambiati per incarnato quando non ci sono persone; i complementari si leggono sulle tinte della foto e valgono anche le coppie dei pittori (rosso/verde, arancio/blu, giallo/viola); i piccoli accenti non si perdono più nel grigio. Tolto il verdetto «Neutri con un accento di colore» dalla ruota.
+- **Vettorscopio**: il colore dominante di una serie è quello più presente, non una media che poteva nominare un colore assente; se i colori forti sono due li dice entrambi.
+- **Raffiche e doppioni**: tra scatti quasi uguali conta la nitidezza vera sul soggetto, gli occhi aperti e la qualità del volto. «Elimina i doppioni» non toglie più foto simili solo «a catena».
+- **Più rapida**: l'analisi di ogni foto si salva e non si rifà a ogni apertura (si aggiorna da sola se riesporti il file); l'analisi della sequenza lavora in parallelo; le miniature non occupano più memoria senza limite.
+- **Correzioni**: le diagonali ↗ e ↘ erano scambiate nella riga «Linee»; «1 capitolo»; il pulsante in basso dice **Salvato** e diventa **Salva** solo quando serve; «Comandi» e appunti non finiscono più sotto la barra; nella foto aperta i suggerimenti non vanno sotto lo zoom.
+
+*English* — **More reliable analysis: the focal point lands on the subject, colour is read better, bursts are ranked by real sharpness; “In short” at the top of the analysis and faster opening.**
+- **In short**: at the top of each photo's analysis, the three things that matter in plain words (where the eye goes, what may disturb, light and colour). The detail with the numbers stays in the sections below.
+- **Focal point**: it now takes into account where the eye really lands (Apple's attention recognition, on the Mac and offline): it ends up on the subject, no longer on a high-contrast edge. Faces and people are found even when small.
+- **Horizon**: a long line counts as a horizon only if it really separates two zones; a kerb or a table edge no longer makes the photo look tilted.
+- **Colour**: earth tones (wood, brick, walls) are no longer mistaken for skin when there are no people; complementaries are read on the photo's hues and the painters' pairs count too (red/green, orange/blue, yellow/violet); small accents no longer get lost in the grey. The “Neutrals with a colour accent” verdict was removed from the wheel.
+- **Vectorscope**: a series' dominant colour is the most present one, not an average that could name a colour that isn't there; if there are two strong colours it names both.
+- **Bursts and duplicates**: among near-identical shots, real sharpness on the subject, open eyes and face quality count. “Remove duplicates” no longer drops photos that are only similar “in a chain”.
+- **Faster**: each photo's analysis is saved and not redone at every opening (it updates itself if you re-export the file); sequence analysis runs in parallel; thumbnails no longer use memory without limit.
+- **Fixes**: the ↗ and ↘ diagonals were swapped in the “Lines” row; “1 chapter”; the bottom button says **Saved** and becomes **Save** only when needed; “Commands” and notes no longer end up under the bar; in the open photo the hints no longer go under the zoom.
+
 ## 4.0.11 — 2026-11-08
 
 **Storyline e Post si adattano alle finestre strette.**
