@@ -1,6 +1,18 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.13 — 2026-11-10
+
+**Schede dell'Inspector con il nome; le parole chiave di Lightroom restano negli XMP; piccole correzioni.**
+- **Inspector**: le schede hanno l'icona e il nome sotto (Info, Tag, Aree, Disponi, Auto, Commenti, Cartelle), così si capisce subito cosa c'è dietro.
+- **XMP**: scrivendo i file XMP le parole chiave già presenti (per esempio quelle di Lightroom) restano; i mood di PhotoBoard si aggiungono invece di sostituirle.
+- **Correzioni**: una rinomina interrotta non lascia più file nascosti; lo Storyboard PDF è tradotto anche in inglese; un progetto EasyZine senza pagine non blocca lo zine; l'esportazione dei post con una «/» nel titolo crea la cartella al posto giusto.
+
+*English* — **Labelled Inspector tabs; Lightroom keywords are kept in XMP files; small fixes.**
+- **Inspector**: tabs show the icon with its name underneath (Info, Tags, Areas, Arrange, Auto, Comments, Folders), so you see at once what's behind each one.
+- **XMP**: when writing XMP files, keywords already there (for example from Lightroom) are kept; PhotoBoard's moods are added instead of replacing them.
+- **Fixes**: an interrupted rename no longer leaves hidden files; the Storyboard PDF is translated into English too; an EasyZine project with no pages no longer breaks the zine; exporting posts with a “/” in the title creates the folder in the right place.
+
 ## 4.0.12 — 2026-11-10
 
 **Analisi più affidabile: il fulcro cade sul soggetto, colore letto meglio, raffiche scelte per nitidezza vera; «In breve» in cima all'analisi e apertura più rapida.**
