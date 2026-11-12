@@ -1,6 +1,22 @@
 # PhotoBoard — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 4.0.14 — 2026-11-12
+
+**Sul tavolo le foto non si sovrappongono più e le aree si allargano da sole; livelli sopra e sotto; «Mostra tutto» rispetta la barra in basso.**
+- **Foto senza sovrapposizioni**: lasciando una foto sopra un'altra, va nel posto libero più vicino, restando nell'area in cui l'hai lasciata. Per sovrapporle apposta, tasto destro › **Livello**: Sopra, Stesso livello (predefinito) o Sotto.
+- **Aree che seguono le foto**: un'area si allarga da sola per contenere la foto che ci metti; se togli una foto che ne segnava il bordo, l'area si stringe su quelle rimaste.
+- **Mostra tutto**: con i temi a barra in basso le foto non finiscono più sotto la barra.
+- **Galleria dei progetti**: con un tema la barra in alto ha il colore del tema, non più il grigio di sistema.
+- **Finestre**: ogni progetto si apre nella sua finestra; le schede di macOS non finiscono più sopra il Reportage o la Storyline.
+
+*English* — **On the table photos no longer overlap and areas grow by themselves; above and below layers; “Show all” respects the bottom bar.**
+- **No overlapping photos**: dropping a photo on another moves it to the nearest free spot, staying in the area where you dropped it. To overlap on purpose, right-click › **Layer**: Above, Same level (default) or Below.
+- **Areas follow the photos**: an area grows by itself to hold the photo you put in it; if you take out a photo that marked its edge, the area shrinks around the ones left.
+- **Show all**: with the bottom-bar themes, photos no longer end up under the bar.
+- **Project gallery**: with a theme the top bar takes the theme colour instead of the system grey.
+- **Windows**: each project opens in its own window; macOS tabs no longer end up over the Reportage or the Storyline.
+
 ## 4.0.13 — 2026-11-10
 
 **Schede dell'Inspector con il nome; le parole chiave di Lightroom restano negli XMP; piccole correzioni.**
